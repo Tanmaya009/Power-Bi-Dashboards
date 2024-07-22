@@ -14,4 +14,7 @@
 ![Screenshot 2024-07-18 104951](https://github.com/user-attachments/assets/950aa85c-8102-404e-a8ba-c2f5900c25ab)
 
 # 4- Marvel Dashboard
-[Screenshot 2024-07-21 095757.pdf](https://github.com/user-attachments/files/16327948/Screenshot.2024-07-21.095757.pdf)
+![Screenshot 2024-07-21 095757](https://github.com/user-attachments/assets/69a1c45a-e561-459c-aa0a-7f02e47af8d5)
+![Screenshot 2024-07-21 092538](https://github.com/user-attachments/assets/1df1eac0-b10b-4cd6-b758-bc34870d164a)
+![Screenshot 2024-07-21 090929](https://github.com/user-attachments/assets/6dcd9445-c746-49f6-808e-9d8684bdf54e)
+![Screenshot 2024-07-21 090756](https://github.com/user-attachments/assets/4b5091bf-a61e-4822-be1e-dc4262ef3f26)
