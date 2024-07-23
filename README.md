@@ -18,3 +18,10 @@
 ![Screenshot 2024-07-21 092538](https://github.com/user-attachments/assets/1df1eac0-b10b-4cd6-b758-bc34870d164a)
 ![Screenshot 2024-07-21 090929](https://github.com/user-attachments/assets/6dcd9445-c746-49f6-808e-9d8684bdf54e)
 ![Screenshot 2024-07-21 090756](https://github.com/user-attachments/assets/4b5091bf-a61e-4822-be1e-dc4262ef3f26)
+
+# 5- Bike Dashboard
+![Screenshot 2024-07-23 195437](https://github.com/user-attachments/assets/504a44fb-fae6-432e-bd23-1785ce588980)
+![Screenshot 2024-07-23 195757](https://github.com/user-attachments/assets/ead3e053-64b0-413c-b2aa-b305e265530e)
+![Screenshot 2024-07-23 195816](https://github.com/user-attachments/assets/263d6555-9594-4b63-88c8-fb800afb2246)
+![Screenshot 2024-07-23 195833](https://github.com/user-attachments/assets/15ba409b-982c-4280-b2b6-93b941291ead)
+
