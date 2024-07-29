@@ -25,3 +25,6 @@
 ![Screenshot 2024-07-23 195816](https://github.com/user-attachments/assets/263d6555-9594-4b63-88c8-fb800afb2246)
 ![Screenshot 2024-07-23 195833](https://github.com/user-attachments/assets/15ba409b-982c-4280-b2b6-93b941291ead)
 
+# 6- NIKE Shoes Dashboard
+![Screenshot 2024-07-29 234431](https://github.com/user-attachments/assets/61fb6e51-fe76-457f-b313-c2c3524db52b)
+![Screenshot 2024-07-29 234523](https://github.com/user-attachments/assets/96015526-b8d1-44df-89d9-6eb6a5331372)
