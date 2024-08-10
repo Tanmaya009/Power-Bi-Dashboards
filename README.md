@@ -30,6 +30,7 @@
 ![Screenshot 2024-07-29 234523](https://github.com/user-attachments/assets/96015526-b8d1-44df-89d9-6eb6a5331372)
 
 # 7- Pokeman Dashboard 
-![Uploading Screenshot 2024-08-10 151456.png…]()
-![Uploading Screenshot 2024-08-10 151618.png…]()
-![Uploading Screenshot 2024-08-10 151618.png…]()
+![Screenshot 2024-08-10 151456](https://github.com/user-attachments/assets/95b240eb-9a36-4ef8-bf63-e12cbb3e34cd)
+![Screenshot 2024-08-10 151525](https://github.com/user-attachments/assets/c5e1f03d-8281-4bad-8db3-d379414b720e)
+![Screenshot 2024-08-10 151547](https://github.com/user-attachments/assets/f4af8732-05af-4be0-818a-0041d7b37b32)
+![Screenshot 2024-08-10 151618](https://github.com/user-attachments/assets/1c34259d-7ee7-4549-be8a-d08d637ed57a)
