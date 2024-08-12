@@ -8,10 +8,8 @@
 ![Screenshot 2024-07-17 201825](https://github.com/user-attachments/assets/d3a0d3a1-6103-47c1-9600-b3132339b7fd)
 ![Screenshot 2024-07-17 201845](https://github.com/user-attachments/assets/ea869e88-80e0-4f30-b5f0-ea8f95b15b05)
 
-# 3- Amazon-Dashboard-using-Power-BI
-![Screenshot 2024-07-18 104858](https://github.com/user-attachments/assets/7a3d5580-9ac7-45e9-a20d-b3865db31237)
-![Screenshot 2024-07-18 104925](https://github.com/user-attachments/assets/6878ad0f-82a5-4b5b-929c-dc80c94d9379)
-![Screenshot 2024-07-18 104951](https://github.com/user-attachments/assets/950aa85c-8102-404e-a8ba-c2f5900c25ab)
+# 3- Call of Duty-Dashboard
+
 
 # 4- Marvel Dashboard
 ![Screenshot 2024-07-21 095757](https://github.com/user-attachments/assets/69a1c45a-e561-459c-aa0a-7f02e47af8d5)
