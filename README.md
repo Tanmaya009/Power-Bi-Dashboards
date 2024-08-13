@@ -9,7 +9,9 @@
 ![Screenshot 2024-07-17 201845](https://github.com/user-attachments/assets/ea869e88-80e0-4f30-b5f0-ea8f95b15b05)
 
 # 3- Call of Duty-Dashboard
-
+![Screenshot 2024-08-12 215203](https://github.com/user-attachments/assets/e161ff10-fd43-42e8-b682-9ac0004468f8)
+![Screenshot 2024-08-12 191423](https://github.com/user-attachments/assets/5070e51a-9536-4772-8771-9fa7aad73c9c)
+![Screenshot 2024-08-12 233713](https://github.com/user-attachments/assets/94cd4fe9-05fe-4a13-a748-f68d8b45a1b1)
 
 # 4- Marvel Dashboard
 ![Screenshot 2024-07-21 095757](https://github.com/user-attachments/assets/69a1c45a-e561-459c-aa0a-7f02e47af8d5)
