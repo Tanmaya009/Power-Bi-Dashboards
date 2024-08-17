@@ -1,4 +1,4 @@
-# 1- Spotify-Dashboard
+![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/b9b61a90-816f-49dc-b394-660bf8ce4939)# 1- Spotify-Dashboard
 ![Screenshot 2024-07-15 113446](https://github.com/user-attachments/assets/9314909e-a0fd-4c92-9dc5-822a0ccf35ed)
 ![Screenshot 2024-07-15 115045](https://github.com/user-attachments/assets/bf246989-a54e-4021-a33d-5b893ba55d71) 
 
@@ -39,5 +39,5 @@
 ![Screenshot 2024-08-14 094030](https://github.com/user-attachments/assets/b97ce531-cd37-4aea-9cd7-d54d30ab649a)
 
 # 9- World Population Data
-![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/58d6a993-9af8-47fc-8ee3-149a13a9ff19)
+![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/89184a9e-3f06-4111-aeeb-dc1368c8e11f)
 ![Screenshot 2024-08-17 102102](https://github.com/user-attachments/assets/813ebf30-cbd5-4540-9e2f-030b55bfc642)
