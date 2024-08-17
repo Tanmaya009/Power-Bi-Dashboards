@@ -34,3 +34,10 @@
 ![Screenshot 2024-08-10 151525](https://github.com/user-attachments/assets/c5e1f03d-8281-4bad-8db3-d379414b720e)
 ![Screenshot 2024-08-10 151547](https://github.com/user-attachments/assets/f4af8732-05af-4be0-818a-0041d7b37b32)
 ![Screenshot 2024-08-10 151618](https://github.com/user-attachments/assets/1c34259d-7ee7-4549-be8a-d08d637ed57a)
+
+# 8- Crop Yield Dashboard
+![Screenshot 2024-08-14 094030](https://github.com/user-attachments/assets/b97ce531-cd37-4aea-9cd7-d54d30ab649a)
+
+# 9- World Population Data
+![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/58d6a993-9af8-47fc-8ee3-149a13a9ff19)
+![Screenshot 2024-08-17 102102](https://github.com/user-attachments/assets/813ebf30-cbd5-4540-9e2f-030b55bfc642)
