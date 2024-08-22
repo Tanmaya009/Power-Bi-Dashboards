@@ -1,4 +1,4 @@
-![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/b9b61a90-816f-49dc-b394-660bf8ce4939)# 1- Spotify-Dashboard
+# 1- Spotify Dashboard
 ![Screenshot 2024-07-15 113446](https://github.com/user-attachments/assets/9314909e-a0fd-4c92-9dc5-822a0ccf35ed)
 ![Screenshot 2024-07-15 115045](https://github.com/user-attachments/assets/bf246989-a54e-4021-a33d-5b893ba55d71) 
 
