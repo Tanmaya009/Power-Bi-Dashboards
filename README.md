@@ -41,3 +41,7 @@
 # 9- World Population Data
 ![Screenshot 2024-08-16 184302](https://github.com/user-attachments/assets/89184a9e-3f06-4111-aeeb-dc1368c8e11f)
 ![Screenshot 2024-08-17 102102](https://github.com/user-attachments/assets/813ebf30-cbd5-4540-9e2f-030b55bfc642)
+
+# 10- Energy Data Dashboard
+![Screenshot 2024-08-22 080454](https://github.com/user-attachments/assets/9c73d1b0-059c-4bf9-bc06-5ca7c9326fbd)
+![Screenshot 2024-08-22 081636](https://github.com/user-attachments/assets/7d4a29c0-0661-4811-8e39-c1bf1c4be952)
