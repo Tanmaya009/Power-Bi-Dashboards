@@ -45,3 +45,9 @@
 # 10- Energy Data Dashboard
 ![Screenshot 2024-08-22 080454](https://github.com/user-attachments/assets/9c73d1b0-059c-4bf9-bc06-5ca7c9326fbd)
 ![Screenshot 2024-08-22 081636](https://github.com/user-attachments/assets/7d4a29c0-0661-4811-8e39-c1bf1c4be952)
+
+# 11- Crimes Against Women in India
+![Screenshot 2024-08-29 122147](https://github.com/user-attachments/assets/b32a9495-c965-4a58-bbeb-e244c157fc55)
+![Screenshot 2024-08-29 122207](https://github.com/user-attachments/assets/266320fc-ad47-4903-892e-e9e3e8a75140)
+![Screenshot 2024-08-29 122936](https://github.com/user-attachments/assets/12873557-c775-4875-9103-8c196293f592)
+![Screenshot 2024-08-29 122236](https://github.com/user-attachments/assets/512d1cae-7356-4c77-a614-b55634a75c83)
