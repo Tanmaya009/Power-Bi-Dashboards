@@ -51,3 +51,9 @@
 ![Screenshot 2024-08-29 122207](https://github.com/user-attachments/assets/266320fc-ad47-4903-892e-e9e3e8a75140)
 ![Screenshot 2024-08-29 122936](https://github.com/user-attachments/assets/12873557-c775-4875-9103-8c196293f592)
 ![Screenshot 2024-08-29 122236](https://github.com/user-attachments/assets/512d1cae-7356-4c77-a614-b55634a75c83)
+
+# Car dataset
+![Screenshot 2024-09-17 182534](https://github.com/user-attachments/assets/b38abc67-3195-4ecb-ad31-45e63d108062)
+![Screenshot 2024-09-17 182601](https://github.com/user-attachments/assets/aae6e1ce-daf4-4719-be8d-45dfc217f911)
+![Screenshot 2024-09-17 182640](https://github.com/user-attachments/assets/1f2692f7-1a9e-4170-a5b9-fee4d8ded373)
+![Screenshot 2024-09-17 182703](https://github.com/user-attachments/assets/2a64ff19-d11f-4860-810e-faf10b9dc505)
